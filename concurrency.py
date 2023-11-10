@@ -9,7 +9,6 @@ from threading import Thread
 from multiprocessing import Process
 
 
-
 def threaded(func):
     """Runs a function in a separate thread.
 
